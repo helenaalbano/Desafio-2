@@ -1,0 +1,45 @@
+.video{
+    text-align: center;
+}
+
+ body{
+    font-size: 24px;
+    margin-left: 40px;
+    
+ }
+
+ .p1{
+    color: green;
+    font-size: 30px;
+ }
+
+ .p2{
+    color: green;
+    font-size: 30px;
+ }
+
+ .p3{
+    color: green;
+    font-size: 30px;
+ }
+
+ header{
+    background-color: green;/*cor do fundo*/
+    color: white;/*cor do texto*/
+    padding: 10px;/*espaçamento interno*/
+    text-align:center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100px;
+    font-style: normal;
+    margin: 10px 20px 10px 20px;
+ }
+
+ footer{
+    background-color: green;/*cor do fundo*/
+    color: white;/*cor do texto*/
+    padding: 20px;/*espaçamento interno*/
+    text-align:center;
+    position:relative;/*posiciona o rodapé*/
+    bottom: 0%;/*fica na parte inferior*/
+    width: 100%;/*ocupa toda a largura*/
+}
